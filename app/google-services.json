@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "283285516689",
+    "project_id": "sushiapp-9e6f5",
+    "storage_bucket": "sushiapp-9e6f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283285516689:android:de4e8f341789329de96a30",
+        "android_client_info": {
+          "package_name": "tubig.amihan.aquadive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5c5F9pFMMyYQpbJ0UdU9RrCC6amQn4TM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
